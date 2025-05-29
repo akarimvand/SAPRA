@@ -1,0 +1,6 @@
+{
+  "name": "SAPRA Industrial Dashboard (Bootstrap)",
+  "description": "A Bootstrap 5 and Vanilla JavaScript based dashboard for visualizing industrial system and subsystem data, including completion status, issues, and detailed breakdowns. Data is sourced from a CSV file and includes export to Excel functionality. Charts are rendered using Chart.js.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
